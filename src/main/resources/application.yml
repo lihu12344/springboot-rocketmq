@@ -1,0 +1,4 @@
+rocketmq:
+  producerGroup: producerGroup
+  namesrv: 172.18.0.91:9876
+  consumerGroup: consumerGroup
